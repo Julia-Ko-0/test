@@ -1,0 +1,8 @@
+.App {
+  /* min-height: 1000px; */
+  display: block;
+  background-color: #C1E8FF;
+  height: 100vh;
+  padding-right: 10%;
+  padding-left: 10%;
+}
